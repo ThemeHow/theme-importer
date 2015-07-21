@@ -13,9 +13,7 @@ Import theme zips from Wordpress.org and other websites into your themes folder.
 
 Located in the Appearance menu (Import), Theme Importer lets you enter a theme URL in the import field, click the Import button and it 
 
-will be copied into your theme folder. No need to download the theme first then upload it. One simple button click is all that's 
-
-required.
+will be copied into your theme folder. No need to download the theme first then upload it. One simple button click is all that's required.
 
 #### Top features
 * Saves time manually downloading themes and uploading theme's into Wordpress
