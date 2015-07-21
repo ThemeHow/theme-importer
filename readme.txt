@@ -25,7 +25,7 @@ The plugin is available in English:
 
 
 #### Donation and more plugins
-* If you like this plugin just upgrade to the Pro version. If you want to donate, give it to charity.
+* If you like this plugin checkout more. If you want to donate, give it to charity.
 * Check out some [more WordPress Plugins & Software](http://www.stevs.net/plugins/) by the same author.
 
 == Installation ==
